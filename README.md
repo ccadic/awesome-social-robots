@@ -34,6 +34,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Arduino Spider Robot (Quadruped)](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
 - [3D Printed WALL·E – A Handcrafted Soft Social Robot](https://wired.chillibasket.com/3d-printed-wall-e/) -  GPL-3.0 license
 - [InMoov – open Source 3D printed life-size Robot](https://inmoov.fr/) -  GCC-BY-NC
+- [3Wheels Open hardware Robot](https://github.com/ccadic/3wheelrobotRPI/blob/master/README.md)
 
 
  
